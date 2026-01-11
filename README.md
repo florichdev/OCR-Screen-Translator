@@ -125,7 +125,7 @@ python main.py
 ![Двухколоночный макет с оригинальным текстом и переводом](https://raw.githubusercontent.com/florichdev/OCR-Screen-Translator/images/3.png)
 
 ### Настройки языков
-![Удобный выбор исходного и целевого языков](https://raw.githubusercontent.com/florichdev/OCR-Screen-Translator/images/6.png)
+![Удобный выбор исходного и целевого языков](https://raw.githubusercontent.com/florichdev/OCR-Screen-Translator/images/6.png) <br>
 ![Удобный выбор исходного и целевого языков](https://raw.githubusercontent.com/florichdev/OCR-Screen-Translator/images/4.png)
 
 ### Предварительный просмотр изображения
