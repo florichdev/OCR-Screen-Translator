@@ -160,3 +160,11 @@ MIT License
 ## 👤 Автор
 
 Telegram: [@florichdev](https://t.me/florichdev)
+
+---
+
+<div align="center">
+
+**Сделано с ❤️ для сообщества Github**
+
+[⭐ Буду благодарен, если поставите звезду](https://github.com/florichdev/OCR-Screen-Translator)
